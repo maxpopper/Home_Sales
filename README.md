@@ -1,2 +1,3 @@
 # Home_Sales
-Module 22 Challenge
+
+All code was completed in Google CoLab and is located in `Home_Sales_colab.ipynb`
